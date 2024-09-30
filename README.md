@@ -1,5 +1,5 @@
 # Bin-Converter
- From Txt to Binand vice versa
+ From Txt to Bin and vice versa
 
 ## How To Use
 
